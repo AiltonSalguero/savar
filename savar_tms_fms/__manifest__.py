@@ -17,7 +17,7 @@
     ],
 
     'data': [
-        'views/product_task_views.xml',
+        'views/project_task_views.xml',
         'security/ir.model.access.csv',
     ],
     
